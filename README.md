@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋🏻, welcome to my profile
 
 <!--
 **Jared-Js/Jared-Js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
